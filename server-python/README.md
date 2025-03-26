@@ -1,12 +1,12 @@
 # Flask Gemma Chat API
 
-This application provides a web API using Flask to interact with Google's open model Gemma, designed to get started building with it's capabilities.
+This application provides a web API using Flask to interact with Google's open model Gemma, designed to get started building with its capabilities.
 
 ## Getting Started
 
 ### Prerequisites
 
-Ensure you have Python 3.10 or greater installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+Ensure you have installed Python 3.10 or greater on your machine. You can download it from [python.org](https://www.python.org/downloads/).
 
 ### Installation
 
